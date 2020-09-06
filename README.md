@@ -1,5 +1,12 @@
- # I am glad you came by<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">
+ <div align="center">
 
+  
+ # Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50"><img src="https://github.com/ampsteric/ampsteric/blob/master/4879736%20(1).gif?raw=true" width="350" > 
+</div>
+ 
+
+  
+  
 ## I am Shashwat Mishra <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="500" align="right"> and I am MERN-STACK web-developer.
 
 <br>
