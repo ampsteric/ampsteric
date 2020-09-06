@@ -1,7 +1,7 @@
  <div align="center">
 
   
- # Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50"><img src="https://github.com/ampsteric/ampsteric/blob/master/4879736%20(1).gif?raw=true" width="350" > 
+ # Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50"><img src="https://raw.githubusercontent.com/ampsteric/ampsteric/master/4879736.gif?raw=true?raw=true" width="350" > 
 </div>
  
 
