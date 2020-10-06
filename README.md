@@ -19,9 +19,6 @@
 <br>
 <br>
 <br>
-
-## And I know that Github is not the correct place to<img src="https://media.giphy.com/media/l2JhpjWPccQhsAMfu/giphy.gif" width="250" align="right">  share academic progresses and experiences.
-
 <br>
 <br>
 <br>
