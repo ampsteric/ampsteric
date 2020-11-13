@@ -4,26 +4,20 @@
  # Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50"><img src="https://raw.githubusercontent.com/ampsteric/ampsteric/master/4879736.gif?raw=true?raw=true" width="350" > 
 </div>
  
+### I'm Shashwat Mishra, currently a sophomore pursuing computer science. I'm an aspiring software engineer , web developer and a open-source lover with a passion for learning new frameworks that prevail in the current market scenario.
 
-  
-  
-## I am Shashwat Mishra <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="500" align="right"> and I am MERN-STACK web-developer.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+## About Me 👨‍🎓
+
+
+- [x] 📩 How to reach me: [ampsteric@gmail.com](ampsteric@gmail.com)
+- [x] ⚡ Fun fact: I'm addicted to **coffee** and **code** and prefer to mix them from time to time
+
+
+## You can find my portfolio website here ❄
+
+[http://shashwat-mishra.surge.sh/](http://shashwat-mishra.surge.sh/)
+
 
 ## &#x1f4c8; GitHub Stats
 
@@ -66,15 +60,3 @@
 
 <!--
 **ampsteric/ampsteric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
