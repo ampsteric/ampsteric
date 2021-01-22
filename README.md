@@ -1,7 +1,7 @@
  <div align="center">
 
-  
- # Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50"><img src="https://raw.githubusercontent.com/ampsteric/ampsteric/master/4879736.gif?raw=true?raw=true" width="350" > 
+ # Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">
+ <img src="https://res.cloudinary.com/dcykxiua2/image/upload/v1611348818/Blue_and_White_Technology_LinkedIn_Banner_grfx2w.png" > 
 </div>
  
 ### I'm Shashwat Mishra, currently a sophomore pursuing computer science. I'm an aspiring software engineer , web developer and a open-source lover with a passion for learning new frameworks that prevail in the current market scenario.
